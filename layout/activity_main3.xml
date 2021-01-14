@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/color"
+    tools:context=".Main3Activity">
+
+    <Button
+        android:id="@+id/score"
+        android:layout_width="241dp"
+        android:layout_height="79dp"
+        android:layout_marginBottom="52dp"
+        android:background="@drawable/diamondbtton"
+        android:text="PROFILE"
+        android:textAppearance="@style/TextAppearance.AppCompat.Display2"
+        android:textColor="#161313"
+        android:textSize="36sp"
+        android:textStyle="bold|italic"
+        app:layout_constraintBottom_toTopOf="@+id/ex"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="1.0" />
+
+    <Button
+        android:id="@+id/play"
+        android:layout_width="241dp"
+        android:layout_height="79dp"
+        android:layout_marginBottom="48dp"
+        android:background="@drawable/diamondbtton"
+        android:text="PLAY"
+        android:textAppearance="@style/TextAppearance.AppCompat.Display2"
+        android:textColor="#0F0D0D"
+        android:textSize="36sp"
+        android:textStyle="bold|italic"
+        app:layout_constraintBottom_toTopOf="@+id/score"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.476"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.97" />
+
+    <Button
+        android:id="@+id/ex"
+        android:layout_width="241dp"
+        android:layout_height="79dp"
+        android:layout_marginBottom="88dp"
+        android:background="@drawable/diamondbtton"
+        android:text="EXIT"
+        android:textAppearance="@style/TextAppearance.AppCompat.Display2"
+        android:textColor="#0A0808"
+        android:textSize="36sp"
+        android:textStyle="bold|italic"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="1.0" />
+
+    <Button
+        android:id="@+id/imagebutton"
+        android:layout_width="245dp"
+        android:layout_height="220dp"
+        android:background="@drawable/ooooo"
+        app:layout_constraintBottom_toTopOf="@+id/play"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.487"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.183" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
