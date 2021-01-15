@@ -1,6 +1,6 @@
 <!-- PROJECT LOGO -->
 <p align="center">
-  <img src="https://github.com/Akash-Peace/ANDROID_STUDIO_APP/blob/main/XO_app_icon.png" alt="Logo" width="150" height="150">
+  <img src="https://github.com/Akash-Peace/ANDROIDSTUDIO-GAME/blob/main/XO_app_icon.png" alt="Logo" width="150" height="150">
   <h3 align="center">XO</h3>
   <p align="center">
     <a href="https://developer.android.com/studio"><strong>Android Studio App</strong></a>
@@ -8,9 +8,9 @@
     <br />
     <a href="https://drive.google.com/file/d/14O1DZrsRm-9mfIQeKzi-Vlj_B-A1KyS3/view?usp=sharing">Download</a>
     ·
-    <a href="https://github.com/Akash-Peace/OPENCV-KIVY-WINDOWSAPP/issues">Report Bug</a>
+    <a href="https://github.com/Akash-Peace/ANDROIDSTUDIO-GAME/issues">Report Bug</a>
     ·
-    <a href="https://github.com/Akash-Peace/OPENCV-KIVY-WINDOWSAPP/issues">Request Feature</a>
+    <a href="https://github.com/Akash-Peace/ANDROIDSTUDIO-GAME/issues">Request Feature</a>
   </p>
 </p>
 
@@ -36,50 +36,44 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Just Wink project objective is to detect & count how many members are in front of the camera and following the project name, it detects wink. As it is mentioned, I decided to present this project as a windows application, particularly using [Kivy framework](https://kivy.org/#home) combining with [OpenCV](https://opencv.org/). Just Wink is an offline application, So it is _100%_ safe to use. This project is licensed by [MIT](https://github.com/Akash-Peace/OPENCV-KIVY-WINDOWSAPP/blob/main/LICENSE) and it is free to use, fork, modify and distribute. If you like this project give a _star_ and follow me.
+XO project objective is to initiate a playable game between user and computer. As it is mentioned, I decided to present this project as a android application, particularly using [Android Studio](https://developer.android.com/studio). User game data and login credentials are privately stored in [firebase cloud](https://firebase.google.com/). User can change password even though they forgotten their existing password. User can switch to multiple android devices with a same account because it's store user account data in firebase cloud as it's an online application. This project is licensed by [MIT](https://github.com/Akash-Peace/ANDROIDSTUDIO-GAME/blob/main/LICENSE) and it is free to use, fork, modify and distribute. If you like this project give a _star_ and follow me.
 
 ## Built With
 
-* [Kivy](https://kivy.org/#home)
-* [Python](https://www.python.org/)
-* [Kv language](https://kivy.org/doc/stable/guide/lang.html)
-
+* [Android Studio](https://developer.android.com/studio)
+* [Java](https://www.java.com/en/)
+* [XML](https://developer.android.com/guide/topics/ui/declaring-layout)
 
 ## Powered by
 
-* [KivyMD](https://kivymd.readthedocs.io/en/latest/)
-* [OpenCV](https://opencv.org/)
-* [Buildozer](https://buildozer.readthedocs.io/en/latest/)
-* [Haar Cascade](https://github.com/opencv/opencv/tree/master/data/haarcascades)
+* [Firebase Cloud](https://firebase.google.com/)
 
 
 ## Requirements
 
-**Device:** Laptop/PC\
-**OS:** Windows\
-**Components:** In-built/External Camera
+**Device:** Smartphone\
+**OS:** Android\
+**Network:** 2G or Above 2G 
 
 
 ## Installation
 
-Step 1: Download [**Just Wink**](https://drive.google.com/file/d/1fhcXePD6KDTlNfemrL8xlzW0jM7umXo0/view?usp=sharing) zip file. If _"Download anyway"_ button appears, Click it.\
-Step 2: Extract _Just-Wink.zip_ file in windows.\
-Step 3: Now you can see _Just-Wink_ folder in extracted location, Click it.\
-Step 4: Search for _Just-Wink.exe_ file and click it. Have fun!!!
+Step 1: Download [**XO**](https://drive.google.com/file/d/14O1DZrsRm-9mfIQeKzi-Vlj_B-A1KyS3/view?usp=sharing) apk file.\
+Step 2: Click _XO.apk_ file in android.\
+Step 3: Installation screen appears, Click _install_. Have fun!!!
 
 
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Usage of this project is to give a count of how many members are in front of the camera and if anyone winks it will be detected and play a function.
-
+Usage of this project is to make users think strategical ideas to win against computer. Users data like login credentials, score of win, loss, draw are stored privately in firebase cloud, So you can use a same account in multiple android devices.
 
 
 
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See [LICENSE](https://github.com/Akash-Peace/OPENCV-KIVY-WINDOWSAPP/blob/main/LICENSE) for more information.
+Distributed under the MIT License. See [LICENSE](https://github.com/Akash-Peace/ANDROIDSTUDIO-GAME/blob/main/LICENSE) for more information.
 
 
 
