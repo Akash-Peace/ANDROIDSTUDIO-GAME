@@ -6,7 +6,7 @@
     <a href="https://developer.android.com/studio"><strong>Android Studio App</strong></a>
     <br />
     <br />
-    <a href="https://drive.google.com/file/d/14O1DZrsRm-9mfIQeKzi-Vlj_B-A1KyS3/view?usp=sharing">Download</a>
+    <a href="https://drive.google.com/file/d/1QkP4m2DsjfI8AGd4S1L9L4wHXeKlUTro/view?usp=sharing">Download</a>
     ·
     <a href="https://github.com/Akash-Peace/ANDROIDSTUDIO-GAME/issues">Report Bug</a>
     ·
@@ -58,7 +58,7 @@ XO project objective is to initiate a playable game between user and computer. A
 
 ## Installation
 
-Step 1: Download [**XO**](https://drive.google.com/file/d/14O1DZrsRm-9mfIQeKzi-Vlj_B-A1KyS3/view?usp=sharing) apk file.\
+Step 1: Download [**XO**](https://drive.google.com/file/d/1QkP4m2DsjfI8AGd4S1L9L4wHXeKlUTro/view?usp=sharing) apk file.\
 Step 2: Click _XO.apk_ file in android.\
 Step 3: Installation screen appears, Click _install_. Have fun!!!
 
