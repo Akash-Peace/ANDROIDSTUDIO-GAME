@@ -26,6 +26,7 @@
     <li><a href="#requirements">Requirements</a></li>
     <li><a href="#installation">Installation</a></li>
     <li><a href="#usage">Usage</a></li>
+    <li><a href="#screenshots">Screenshots</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
@@ -68,6 +69,10 @@ Step 3: Installation screen appears, Click _install_. Have fun!!!
 
 Usage of this project is to make users think strategical ideas to win against computer. Users data like login credentials, score of win, loss, draw are stored privately in firebase cloud, So you can use a same account in multiple android devices.
 
+
+## Screenshots
+
+View [Screenshots](https://github.com/Akash-Peace/ANDROIDSTUDIO-GAME/tree/main/Screenshots) here.
 
 
 <!-- LICENSE -->
