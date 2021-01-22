@@ -37,7 +37,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-XO project objective is to initiate a playable game between user and computer. As it is mentioned, I decided to present this project as an android application, particularly using [Android Studio](https://developer.android.com/studio). User game data and login credentials are privately stored in [firebase cloud](https://firebase.google.com/). User can change password even though they forgotten their existing password. User can switch to multiple android devices with a same account because it's store user account data in firebase cloud as it's an online application. This project is licensed by [MIT](https://github.com/Akash-Peace/ANDROIDSTUDIO-GAME/blob/main/LICENSE) and it is free to use, fork, modify and distribute. If you like this project give a _star_ and follow me.
+XO project objective is to initiate a playable game between user and computer. As mentioned, I decided to present this project as an android application, particularly Android Studio. User game data and login credentials are privately stored in the firebase cloud. Users can change passwords even though they have forgotten their existing password. User can switch to multiple android devices with the same account because it's store user account data in firebase cloud as it's an online application. MIT licenses this project, and it is free to use, fork, modify and distribute. If you like this project give a _star_ and follow me.
 
 ## Built With
 
